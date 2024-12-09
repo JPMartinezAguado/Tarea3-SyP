@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarea3-SyP", "Tarea3-SyP.csproj", "{C66ED660-BB99-4B6B-9331-CB98F9011470}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sonidos", "sonidos", "{D760BB1A-7338-4C9C-A055-AA38D88AE4EE}"
+	ProjectSection(SolutionItems) = preProject
+		..\SyP-Tarea3\recursos\sonidos\1x.mp3 = ..\SyP-Tarea3\recursos\sonidos\1x.mp3
+		..\SyP-Tarea3\recursos\sonidos\2x.mp3 = ..\SyP-Tarea3\recursos\sonidos\2x.mp3
+		..\SyP-Tarea3\recursos\sonidos\4x.mp3 = ..\SyP-Tarea3\recursos\sonidos\4x.mp3
+		..\SyP-Tarea3\recursos\sonidos\backwards.mp3 = ..\SyP-Tarea3\recursos\sonidos\backwards.mp3
+		..\SyP-Tarea3\recursos\sonidos\bug.mp3 = ..\SyP-Tarea3\recursos\sonidos\bug.mp3
+		..\SyP-Tarea3\recursos\sonidos\cogido.mp3 = ..\SyP-Tarea3\recursos\sonidos\cogido.mp3
+		..\SyP-Tarea3\recursos\sonidos\malutosAndando.wav = ..\SyP-Tarea3\recursos\sonidos\malutosAndando.wav
+		..\SyP-Tarea3\recursos\sonidos\malutosParados.wav = ..\SyP-Tarea3\recursos\sonidos\malutosParados.wav
+		..\SyP-Tarea3\recursos\sonidos\menus.wav = ..\SyP-Tarea3\recursos\sonidos\menus.wav
+		..\SyP-Tarea3\recursos\sonidos\muerte.mp3 = ..\SyP-Tarea3\recursos\sonidos\muerte.mp3
+		..\SyP-Tarea3\recursos\sonidos\pause.mp3 = ..\SyP-Tarea3\recursos\sonidos\pause.mp3
+		..\SyP-Tarea3\recursos\sonidos\pulsarMenu.mp3 = ..\SyP-Tarea3\recursos\sonidos\pulsarMenu.mp3
+		..\SyP-Tarea3\recursos\sonidos\start.wav = ..\SyP-Tarea3\recursos\sonidos\start.wav
+		..\SyP-Tarea3\recursos\sonidos\victoria.mp3 = ..\SyP-Tarea3\recursos\sonidos\victoria.mp3
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C66ED660-BB99-4B6B-9331-CB98F9011470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66ED660-BB99-4B6B-9331-CB98F9011470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66ED660-BB99-4B6B-9331-CB98F9011470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66ED660-BB99-4B6B-9331-CB98F9011470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA3AC981-2861-4B0D-8294-451F1ABD6BC9}
+	EndGlobalSection
+EndGlobal
